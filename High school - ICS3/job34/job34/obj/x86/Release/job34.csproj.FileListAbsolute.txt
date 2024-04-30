@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\bin\Release\job34.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\bin\Release\job34.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Release\job34.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Release\job34.pdb
+W:\Visual Studio 2010\Projects\job34\job34\obj\x86\Release\job34.exe
+W:\Visual Studio 2010\Projects\job34\job34\obj\x86\Release\job34.pdb

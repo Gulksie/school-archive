@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job23\bin\Release\job23.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job23\bin\Release\job23.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job23\obj\x86\Release\job23.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job23\obj\x86\Release\job23.pdb
+W:\Visual Studio 2010\Projects\job23\job23\obj\x86\Release\job23.exe
+W:\Visual Studio 2010\Projects\job23\job23\obj\x86\Release\job23.pdb

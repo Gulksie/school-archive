@@ -1,0 +1,15 @@
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\bin\Debug\job01.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\bin\Debug\job01.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.Form1.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.Properties.Resources.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.csproj.GenerateResource.Cache
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.pdb
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.exe
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.Form1.resources
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.Properties.Resources.resources
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.csproj.GenerateResource.Cache
+W:\Visual Studio 2010\Projects\job01\job01\bin\Debug\job01.exe
+W:\Visual Studio 2010\Projects\job01\job01\bin\Debug\job01.pdb
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.pdb
+W:\Visual Studio 2010\Projects\job01\job01\obj\x86\Debug\job01.csprojResolveAssemblyReference.cache

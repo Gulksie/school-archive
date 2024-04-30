@@ -1,0 +1,4 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job49\bin\Release\job49.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job49\bin\Release\job49.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job49\obj\x86\Release\job49.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job49\obj\x86\Release\job49.pdb

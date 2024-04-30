@@ -1,0 +1,4 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ojb28\bin\Release\ojb28.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ojb28\bin\Release\ojb28.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ojb28\obj\x86\Release\ojb28.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ojb28\obj\x86\Release\ojb28.pdb

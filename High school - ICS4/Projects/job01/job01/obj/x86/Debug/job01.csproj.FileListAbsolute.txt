@@ -1,0 +1,7 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\bin\Debug\job01.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\bin\Debug\job01.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\obj\x86\Debug\WindowsFormsApplication1.frmVol.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\obj\x86\Debug\job01.csproj.GenerateResource.Cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\obj\x86\Debug\job01.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job01\job01\obj\x86\Debug\job01.pdb

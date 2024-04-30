@@ -1,0 +1,4 @@
+https://docs.python.org/3/library/turtle.html
+https://mathworld.wolfram.com/KochSnowflake.html
+https://larryriddle.agnesscott.org/ifs/ksnow/area.htm
+https://wiki.secretgeek.net/tree-fractal

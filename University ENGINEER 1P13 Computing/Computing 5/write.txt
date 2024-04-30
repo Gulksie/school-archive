@@ -1,0 +1,5 @@
+Welcome to File I/O.
+this
+is
+a
+list

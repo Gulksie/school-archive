@@ -1,0 +1,4 @@
+Q:\gulkami075\Visual Studio 2010\Projects\assignt6a\assignt6a\bin\Release\assignt6a.exe
+Q:\gulkami075\Visual Studio 2010\Projects\assignt6a\assignt6a\bin\Release\assignt6a.pdb
+Q:\gulkami075\Visual Studio 2010\Projects\assignt6a\assignt6a\obj\x86\Release\assignt6a.exe
+Q:\gulkami075\Visual Studio 2010\Projects\assignt6a\assignt6a\obj\x86\Release\assignt6a.pdb

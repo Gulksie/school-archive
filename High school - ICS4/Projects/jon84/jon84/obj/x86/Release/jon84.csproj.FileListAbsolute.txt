@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\bin\Release\jon84.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\bin\Release\jon84.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\obj\x86\Release\jon84.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\obj\x86\Release\jon84.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\obj\x86\Release\jon84.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\obj\x86\Release\jon84.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\jon84\obj\x86\Release\jon84.pdb

@@ -1,0 +1,10 @@
+Steve Carl,m, 65,63,85,56
+Rob Wagner,m,65,86,85,84
+Deb Rancan,f,75,72,70,68
+Tom Wagner,m,70,58,90,64
+Pat Harold,f,85,80,80,75
+Bob Wecker,m,73,72,72,75
+Mary Wills,f,73,72,72,73
+John Roths,m,72,70,70,74
+Sam George,m,70,70,71,58
+Lou Majors,m,65,65,68,68

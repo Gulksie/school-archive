@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job120\bin\Release\job120.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job120\bin\Release\job120.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job120\obj\x86\Release\job120.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job120\obj\x86\Release\job120.pdb
+W:\Visual Studio 2010\Projects\job120\job120\obj\x86\Release\job120.exe
+W:\Visual Studio 2010\Projects\job120\job120\obj\x86\Release\job120.pdb

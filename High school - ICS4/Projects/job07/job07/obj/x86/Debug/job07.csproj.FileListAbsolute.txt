@@ -1,0 +1,7 @@
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\bin\Debug\job07.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\bin\Debug\job07.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\obj\x86\Debug\job07.Form1.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\obj\x86\Debug\job07.Properties.Resources.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\obj\x86\Debug\job07.csproj.GenerateResource.Cache
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\obj\x86\Debug\job07.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job07\job07\obj\x86\Debug\job07.pdb

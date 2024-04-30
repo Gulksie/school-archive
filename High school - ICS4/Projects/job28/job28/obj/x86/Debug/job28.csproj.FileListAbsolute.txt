@@ -1,0 +1,8 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\bin\Debug\job28.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\bin\Debug\job28.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.csprojResolveAssemblyReference.cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.Form1.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.Properties.Resources.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.csproj.GenerateResource.Cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job28\job28\obj\x86\Debug\job28.pdb

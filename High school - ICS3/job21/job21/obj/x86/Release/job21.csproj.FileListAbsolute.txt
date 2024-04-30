@@ -1,0 +1,8 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job21\bin\Release\job21.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job21\bin\Release\job21.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job21\obj\x86\Release\job21.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job21\obj\x86\Release\job21.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job21\job21\obj\x86\Release\job21.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job21\job21\obj\x86\Release\job21.pdb
+W:\Visual Studio 2010\Projects\job21\job21\obj\x86\Release\job21.exe
+W:\Visual Studio 2010\Projects\job21\job21\obj\x86\Release\job21.pdb

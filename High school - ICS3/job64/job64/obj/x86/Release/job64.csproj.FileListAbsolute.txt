@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job64\bin\Release\job64.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job64\bin\Release\job64.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job64\obj\x86\Release\job64.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job64\obj\x86\Release\job64.pdb
+W:\Visual Studio 2010\Projects\job64\job64\obj\x86\Release\job64.exe
+W:\Visual Studio 2010\Projects\job64\job64\obj\x86\Release\job64.pdb

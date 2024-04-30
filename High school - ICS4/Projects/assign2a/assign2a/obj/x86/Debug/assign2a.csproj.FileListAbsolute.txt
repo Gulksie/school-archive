@@ -1,0 +1,9 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\bin\Debug\assign2a.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\bin\Debug\assign2a.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Debug\assign2a.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Debug\assign2a.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Debug\assign2a.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Debug\assign2a.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Debug\assign2a.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2a\assign2a\obj\x86\Debug\assign2a.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2a\assign2a\obj\x86\Debug\assign2a.pdb

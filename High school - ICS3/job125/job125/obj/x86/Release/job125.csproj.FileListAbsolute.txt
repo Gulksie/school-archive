@@ -1,0 +1,7 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job125\job125\bin\Release\job125.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job125\job125\bin\Release\job125.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job125\job125\obj\x86\Release\job125.csprojResolveAssemblyReference.cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job125\job125\obj\x86\Release\job125.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job125\job125\obj\x86\Release\job125.pdb
+W:\Visual Studio 2010\Projects\job125\job125\obj\x86\Release\job125.exe
+W:\Visual Studio 2010\Projects\job125\job125\obj\x86\Release\job125.pdb

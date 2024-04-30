@@ -1,0 +1,5 @@
+W:\Visual Studio 2010\Projects\job15\job15\bin\Release\job15.exe
+W:\Visual Studio 2010\Projects\job15\job15\bin\Release\job15.pdb
+W:\Visual Studio 2010\Projects\job15\job15\obj\x86\Release\job15.exe
+W:\Visual Studio 2010\Projects\job15\job15\obj\x86\Release\job15.pdb
+W:\Visual Studio 2010\Projects\job15\job15\obj\x86\Release\job15.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job43\job43\bin\Release\job43.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job43\job43\bin\Release\job43.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job43\job43\obj\x86\Release\job43.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job43\job43\obj\x86\Release\job43.pdb

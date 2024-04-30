@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\bin\Release\assign2a.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\bin\Release\assign2a.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Release\assign2a.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2a\obj\x86\Release\assign2a.pdb
+W:\Visual Studio 2010\Projects\assign2a\assign2a\obj\x86\Release\assign2a.exe
+W:\Visual Studio 2010\Projects\assign2a\assign2a\obj\x86\Release\assign2a.pdb

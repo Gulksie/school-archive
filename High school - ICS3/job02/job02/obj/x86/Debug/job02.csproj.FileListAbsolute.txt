@@ -1,0 +1,7 @@
+W:\Visual Studio 2010\Projects\job02\job02\bin\Debug\job02.exe
+W:\Visual Studio 2010\Projects\job02\job02\bin\Debug\job02.pdb
+W:\Visual Studio 2010\Projects\job02\job02\obj\x86\Debug\WindowsFormsApplication1.atTheDeli.resources
+W:\Visual Studio 2010\Projects\job02\job02\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+W:\Visual Studio 2010\Projects\job02\job02\obj\x86\Debug\job02.csproj.GenerateResource.Cache
+W:\Visual Studio 2010\Projects\job02\job02\obj\x86\Debug\job02.exe
+W:\Visual Studio 2010\Projects\job02\job02\obj\x86\Debug\job02.pdb

@@ -1,0 +1,9 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\bin\Debug\assign4.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\bin\Debug\assign4.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\obj\x86\Debug\assign4.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\obj\x86\Debug\assign4.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\obj\x86\Debug\assign4.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\obj\x86\Debug\assign4.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign4\obj\x86\Debug\assign4.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\assign4\assign4\obj\x86\Debug\assign4.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\assign4\assign4\obj\x86\Debug\assign4.pdb

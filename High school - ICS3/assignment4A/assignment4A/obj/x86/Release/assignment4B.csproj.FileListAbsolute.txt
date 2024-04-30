@@ -1,0 +1,4 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assignment4B\bin\Release\assignment4B.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assignment4B\bin\Release\assignment4B.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assignment4B\obj\x86\Release\assignment4B.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assignment4B\obj\x86\Release\assignment4B.pdb

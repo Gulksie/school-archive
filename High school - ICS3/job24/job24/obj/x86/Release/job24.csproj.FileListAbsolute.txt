@@ -1,0 +1,5 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job24\job24\bin\Release\job24.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job24\job24\bin\Release\job24.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job24\job24\obj\x86\Release\job24.csprojResolveAssemblyReference.cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job24\job24\obj\x86\Release\job24.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job24\job24\obj\x86\Release\job24.pdb

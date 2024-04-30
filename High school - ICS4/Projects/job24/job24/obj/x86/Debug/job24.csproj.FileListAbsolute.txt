@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\bin\Debug\job24.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\bin\Debug\job24.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\obj\x86\Debug\job24.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\obj\x86\Debug\job24.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\obj\x86\Debug\job24.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\obj\x86\Debug\job24.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job24\obj\x86\Debug\job24.pdb

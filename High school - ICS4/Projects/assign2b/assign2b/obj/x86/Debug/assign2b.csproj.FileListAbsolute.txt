@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\bin\Debug\assign2b.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\bin\Debug\assign2b.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\obj\x86\Debug\assign2b.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\obj\x86\Debug\assign2b.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\obj\x86\Debug\assign2b.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\obj\x86\Debug\assign2b.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign2b\obj\x86\Debug\assign2b.pdb

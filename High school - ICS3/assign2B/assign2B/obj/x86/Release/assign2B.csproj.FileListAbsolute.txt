@@ -1,0 +1,4 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2B\assign2B\bin\Release\assign2B.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2B\assign2B\bin\Release\assign2B.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2B\assign2B\obj\x86\Release\assign2B.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign2B\assign2B\obj\x86\Release\assign2B.pdb

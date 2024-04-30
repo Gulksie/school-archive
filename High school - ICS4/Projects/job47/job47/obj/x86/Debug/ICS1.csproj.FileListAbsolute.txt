@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\obj\x86\Debug\ICS1.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\obj\x86\Debug\ICS1.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\obj\x86\Debug\ICS1.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\bin\Debug\ICS1.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\bin\Debug\ICS1.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\obj\x86\Debug\ICS1.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\ICS1\obj\x86\Debug\ICS1.pdb

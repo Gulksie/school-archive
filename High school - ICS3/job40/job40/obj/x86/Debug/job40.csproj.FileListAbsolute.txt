@@ -1,0 +1,4 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job40\bin\Debug\job40.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job40\bin\Debug\job40.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job40\obj\x86\Debug\job40.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job40\obj\x86\Debug\job40.pdb

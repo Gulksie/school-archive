@@ -1,0 +1,9 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job122\bin\Release\job122.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job122\bin\Release\job122.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job122\obj\x86\Release\job122.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job122\obj\x86\Release\job122.pdb
+W:\Visual Studio 2010\Projects\job122\job122\obj\x86\Release\job122.exe
+W:\Visual Studio 2010\Projects\job122\job122\obj\x86\Release\job122.pdb
+W:\Visual Studio 2010\Projects\job122\job122\bin\Release\job122.exe
+W:\Visual Studio 2010\Projects\job122\job122\bin\Release\job122.pdb
+W:\Visual Studio 2010\Projects\job122\job122\obj\x86\Release\job122.csprojResolveAssemblyReference.cache

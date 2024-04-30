@@ -1,0 +1,6 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign1\assign1\bin\Release\assign1.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign1\assign1\bin\Release\assign1.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign1\assign1\obj\x86\Release\assign1.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign1\assign1\obj\x86\Release\assign1.pdb
+W:\Visual Studio 2010\Projects\assign1\assign1\obj\x86\Release\assign1.exe
+W:\Visual Studio 2010\Projects\assign1\assign1\obj\x86\Release\assign1.pdb

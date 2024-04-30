@@ -1,0 +1,10 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign6b\bin\Release\assign6b.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign6b\bin\Release\assign6b.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign6b\obj\x86\Release\assign6b.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\assign6b\obj\x86\Release\assign6b.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign6b\assign6b\obj\x86\Release\assign6b.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign6b\assign6b\obj\x86\Release\assign6b.pdb
+Q:\gulkami075\Visual Studio 2010\Projects\assign6b\assign6b\obj\x86\Release\assign6b.exe
+Q:\gulkami075\Visual Studio 2010\Projects\assign6b\assign6b\obj\x86\Release\assign6b.pdb
+Q:\gulkami075\Visual Studio 2010\Projects\assign6b\assign6b\bin\Release\assign6b.exe
+Q:\gulkami075\Visual Studio 2010\Projects\assign6b\assign6b\bin\Release\assign6b.pdb

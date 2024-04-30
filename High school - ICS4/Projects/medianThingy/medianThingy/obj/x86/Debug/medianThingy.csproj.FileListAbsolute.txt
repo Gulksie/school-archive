@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\bin\Debug\medianThingy.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\bin\Debug\medianThingy.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\obj\x86\Debug\medianThingy.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\obj\x86\Debug\medianThingy.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\obj\x86\Debug\medianThingy.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\obj\x86\Debug\medianThingy.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\medianThingy\obj\x86\Debug\medianThingy.pdb

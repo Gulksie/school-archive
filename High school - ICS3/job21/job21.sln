@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "job21", "job21\job21.csproj", "{E60820C6-F0D3-471A-8BBC-2CD5A0695977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60820C6-F0D3-471A-8BBC-2CD5A0695977}.Debug|x86.ActiveCfg = Debug|x86
+		{E60820C6-F0D3-471A-8BBC-2CD5A0695977}.Debug|x86.Build.0 = Debug|x86
+		{E60820C6-F0D3-471A-8BBC-2CD5A0695977}.Release|x86.ActiveCfg = Release|x86
+		{E60820C6-F0D3-471A-8BBC-2CD5A0695977}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

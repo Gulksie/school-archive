@@ -1,0 +1,8 @@
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\bin\Debug\assign3a.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\bin\Debug\assign3a.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.csprojResolveAssemblyReference.cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.Form1.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.Properties.Resources.resources
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.csproj.GenerateResource.Cache
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\assign3a\assign3a\obj\x86\Debug\assign3a.pdb

@@ -1,0 +1,4 @@
+W:\Visual Studio 2010\Projects\job41\job41\bin\Release\job41.exe
+W:\Visual Studio 2010\Projects\job41\job41\bin\Release\job41.pdb
+W:\Visual Studio 2010\Projects\job41\job41\obj\x86\Release\job41.exe
+W:\Visual Studio 2010\Projects\job41\job41\obj\x86\Release\job41.pdb

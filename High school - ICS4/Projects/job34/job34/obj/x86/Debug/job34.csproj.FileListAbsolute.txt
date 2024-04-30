@@ -1,0 +1,14 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\bin\Debug\job34.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\bin\Debug\job34.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Debug\job34.Form1.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Debug\job34.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Debug\job34.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Debug\job34.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job34\obj\x86\Debug\job34.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\obj\x86\Debug\job34.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\obj\x86\Debug\job34.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\bin\Debug\job34.exe
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\bin\Debug\job34.pdb
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\obj\x86\Debug\job34.Form1.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\obj\x86\Debug\job34.Properties.Resources.resources
+\\cn2\080users$\gulkami075\Visual Studio 2010\Projects\job34\job34\obj\x86\Debug\job34.csproj.GenerateResource.Cache

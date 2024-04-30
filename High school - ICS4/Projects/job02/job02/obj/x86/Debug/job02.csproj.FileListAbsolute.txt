@@ -1,0 +1,7 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\bin\Debug\job02.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\bin\Debug\job02.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\obj\x86\Debug\job02.frmDeli.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\obj\x86\Debug\job02.Properties.Resources.resources
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\obj\x86\Debug\job02.csproj.GenerateResource.Cache
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\obj\x86\Debug\job02.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job02\obj\x86\Debug\job02.pdb

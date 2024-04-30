@@ -1,0 +1,6 @@
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job92\bin\Release\job92.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job92\bin\Release\job92.pdb
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job92\obj\x86\Release\job92.exe
+C:\Users\gulkami075\AppData\Local\Temporary Projects\job92\obj\x86\Release\job92.pdb
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job92\job92\obj\x86\Release\job92.exe
+\\cn2\080users$\gulkami075\visual studio 2010\Projects\job92\job92\obj\x86\Release\job92.pdb
